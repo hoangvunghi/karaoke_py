@@ -1,0 +1,6 @@
+chardet==5.2.0
+colorama==0.4.6
+colored==2.2.5
+pysrt==1.1.2
+wcwidth==0.2.13
+windows-curses==2.4.1
